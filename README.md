@@ -1,4 +1,4 @@
-# API hakernews connection start with  React
+# API hackernews connection start with  React
 
 - Dependencies:
   - react
