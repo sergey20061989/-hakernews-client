@@ -5,3 +5,7 @@
   - axios
   - classnames
   - lodash
+
+```js
+npm i && npm run start
+```
